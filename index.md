@@ -6,3 +6,6 @@
 link to my Passwordgenerator
 https://github.com/pypravin/100DaysPythonProject/blob/main/PasswordGenerator.py
 ```
+- [ ] Complete 100 days python challenge
+- [ ] Complete MERN
+- [x] Introduce myself to the world
